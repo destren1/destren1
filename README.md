@@ -1,8 +1,8 @@
 ### Привет, меня зовут Иван!👋
 
-Header
+[![Header](https://github.com/destren1/destren1/blob/main/assets/header.jpg)](https://t.me/destren1)
 
-About me
+## I’m a beginner Frontend Developer
 
 Languages and Tools
 
