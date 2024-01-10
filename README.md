@@ -1,4 +1,8 @@
-[![Header](./src/monkey.gif)](https://t.me/destren1)
+<p align="center">
+  <a href="https://t.me/destren1">
+    <img src="./src/monkey.gif" alt="Описание изображения" />
+  </a>
+</p>
 
 ## I’m a Frontend Developer
 
