@@ -4,11 +4,12 @@
   </a>
 </p>
 
-## I’m a Frontend Developer
+<h2 align="center">I’m a Frontend Developer</h2>
 
 - 👨🏻‍🎓 Yandex.Practicum && MSU student
 
 ### Languages and Tools
+
 <a  href="https://html.com" target="_blank"><img src="./src/html5_icon.png" alt="HTML5" height = 30></a>
 <a  href="https://www.w3.org/Style/CSS/Overview.en.html" target="_blank"><img src="./src/css3_icon.png" alt="CSS3" height = 30></a>
 <a  href="https://www.javascript.com" target="_blank"><img src="./src/js_icon.png" alt="JavaScript" height = 30></a>
