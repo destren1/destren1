@@ -1,6 +1,8 @@
-[![Header](https://github.com/destren1/destren1/blob/main/assets/header.jpg)](https://t.me/destren1)
+[![Header](./src/monkey.gif)](https://t.me/destren1)
 
-## I’m a beginner Frontend Developer
+## I’m a Frontend Developer
+
+- 👨🏻‍🎓 Yandex.Practicum && MSU student
 
 ### Languages and Tools
 <a  href="https://html.com" target="_blank"><img src="./src/html5_icon.png" alt="HTML5" height = 30></a>
