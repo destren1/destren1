@@ -8,7 +8,6 @@
 
 <h3 align="center"> ⚡About me </h3>
 <p align="center"> 👨🏻‍🎓 Yandex.Practicum && MSU student </p>
----
 
 <h3 align="center" > 💻Languages and Tools </h3> 
 
@@ -19,5 +18,6 @@
 <a  href="https://git-scm.com" target="_blank"><img src="./src/git_icon.png" alt="git" height = 30></a>
 <a  href="https://webpack.js.org" target="_blank"><img src="./src/webpack_icon.png" alt="webpack" height = 30></a>
 </div>
+
 
 <p align="center" > Follow me </p>
