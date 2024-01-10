@@ -6,10 +6,11 @@
 
 <h2 align="center">I’m a Frontend Developer👨‍💻</h2>
 
-<h3 align="center"> ⚡ <u>About me</u> </h3>
+<h3 align="center"> ⚡About me </h3>
 <p align="center"> 👨🏻‍🎓 Yandex.Practicum && MSU student </p>
+---
 
-<h3 align="center" > 💻 <u>Languages and Tools</u> </h3>
+<h3 align="center" > 💻Languages and Tools </h3> 
 
 <div align="center">
 <a  href="https://html.com" target="_blank"><img src="./src/html5_icon.png" alt="HTML5" height = 30></a>
