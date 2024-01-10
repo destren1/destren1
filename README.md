@@ -19,7 +19,7 @@
 <a  href="https://webpack.js.org" target="_blank"><img src="./src/webpack_icon.png" alt="webpack" height = 30></a>
 </div>
 
-<div align="center">
+<div align="center" style="margin-top: 10px;">
       <img height="195px" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=destren1&layout=compact&theme=vision-friendly-dark" />
 </div>
 
