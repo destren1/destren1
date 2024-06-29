@@ -6,10 +6,10 @@
 
 <h2 align="center">About me</h2>
 
-<p align="center">👋 I'm Ivan Romanovskiy, a front-end developer form Russia. </p>
-<p align="center">💻 Now I'm working on a charity project. We are migrating the system from Bitrix to React and Moleculer. </p>
-<p align="center">👨🏻‍🎓 Yandex.Practicum && MSU student </p>
-<p align="center">🏋️‍♂️ I'm passionate about sports, which is an integral part of my life.</p>
+<p>👋 I'm Ivan Romanovskiy, a front-end developer form Russia. </p>
+<p>💻 Now I'm working on a charity project. We are migrating the system from Bitrix to React and Moleculer. </p>
+<p>👨🏻‍🎓 Yandex.Practicum && MSU student </p>
+<p>🏋️‍♂️ I'm passionate about sports, which is an integral part of my life.</p>
 
 <h3 align="center" > 🛠️Languages and Tools </h3> 
 
