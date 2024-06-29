@@ -4,12 +4,14 @@
   </a>
 </p>
 
-<h2 align="center">I’m a Frontend Developer👨‍💻</h2>
+<h2 align="center">About me</h2>
 
-<h3 align="center"> ⚡About me </h3>
-<p align="center"> 👨🏻‍🎓 Yandex.Practicum && MSU student </p>
+<p align="center">👋 I'm Ivan Romanovskiy, a front-end developer form Russia. </p>
+<p align="center">💻 Now I'm working on a charity project. We are migrating the system from Bitrix to React and Moleculer. </p>
+<p align="center">👨🏻‍🎓 Yandex.Practicum && MSU student </p>
+<p align="center">🏋️‍♂️ I'm passionate about sports, which is an integral part of my life.</p>
 
-<h3 align="center" > 💻Languages and Tools </h3> 
+<h3 align="center" > 🛠️Languages and Tools </h3> 
 
 <div align="center">
 <a  href="https://html.com" target="_blank"><img src="./src/html5_icon.png" alt="HTML5" height = 30></a>
