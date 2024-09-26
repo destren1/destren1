@@ -7,7 +7,6 @@
 <h2 align="center">About me</h2>
 
 <p>👋 I'm Ivan Romanovskiy, a front-end developer form Russia. </p>
-<p>💻 Now I'm working on a charity project. We are migrating the system from Bitrix to React. </p>
 <p>👨🏻‍🎓 Yandex.Practicum && MSU student </p>
 <p>🏋️‍♂️ I'm passionate about sports, which is an integral part of my life.</p>
 <a  href="https://github.com/destren3" target="_blank">My second account</a>
